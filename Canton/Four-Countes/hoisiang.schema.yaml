@@ -10,6 +10,8 @@ schema:
   description: |
     聲母SR用鍵盤x，NG用鍵盤r
     韻母ng用鍵盤j
+    參考資料來源：http://www.stephen-li.com/TaishaneseVocabulary/Taishanese.html
+    http://xiaoxue.iis.sinica.edu.tw/ccr/
   dependencies:
     - cangjie5
 
@@ -81,45 +83,14 @@ translator:
     - 'xform j ng'
 
 reverse_lookup:
-  dictionary: yvtpij
+  dictionary: luna_pinyin
   prefix: "`"
   suffix: "'"
-  tips: 〔越東語西字拼音〕
+  tips: 〔拼音〕
   preedit_format:
-    - abbrev/^([a-z]).+$/$1/
-    - derive/^(ng?+)[0-6]$/$1/  #冇聲母嘅尾韻母可以省略聲調
-    - xform/^ng$/j/
-    - derive/(ng?+)[0-6]$/$1/  #有聲母嘅尾韻母可以省略聲調
-    - xform/ng$/j/
-    - xform/^ng/r/
-    - derive/^(r+).[0-6]$/$1/
-    - abbrev/^([a-z]).+$/$1/
-    - abbrev/^([gk]w).+$/$1/
-    - derive/^([a-z]+)[0-6]$/$1/  #省略聲調
-    - derive/^([a-z]+)\d$/$1/
-    - 'xlit 136245 []\,./'
-    - 'xlit|bfdlghzcsyw|BFDLGHZCSYW|'
-    - 'xform r NG'
-    - 'xform q œ'
-    - 'xform x æ'
-    - 'xform j ƞ'
-    - 'xform ^n N'
-    - 'xform ^m M'
-    - 'xform ^M$ m'
-    - 'xform ^p P'
-    - 'xform ^t T'
-    - 'xform ^k K'
-    - 'xform mo Mo'
-    - 'xform me Me'
-    - 'xform mi Mi'
-    - 'xform mu Mu'
-    - 'xform ma Ma'
-    - 'xform no No'
-    - 'xform ne Ne'
-    - 'xform ni Ni'
-    - 'xform nu Nu'
-    - 'xform nv Nv'
-    - 'xform na Na'
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 punctuator:
   import_preset: default
