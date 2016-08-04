@@ -9,7 +9,7 @@ schema:
     - 鄧國復 <daenggwokfook@gmail.com>
   description: |
     客語系　粵台片　梅惠小片,　廣東省　梅州市　梅縣區方案
-    爲了簡便,聲母可NG，ng用鍵盤r。韻母可ng用鍵盤j。
+    爲了簡便,聲母可NG，ng用鍵盤r。韻母可ng用鍵盤j。零聲母可輸入e或省略
     橫向數字鍵輸入聲調，亦可省略聲調。九宮數字鍵選字。
   dependencies:
     - luna_pinyin
@@ -58,9 +58,9 @@ speller:
     - derive/^NG/r/           # 聲母NG可用鍵盤r
     - derive/^ng/r/           # 聲母ng可用鍵盤r
     - 'xlit|ZYXWVUTSRQPONMLKJIHGFEDCBA|zyxwvutsrqponmlkjihgfedcba|'
-    - derive/^e//
-    - derive/2/5/
-    - derive/3/6/
+    - derive/^e//           #零聲母可輸入e或省略
+    - derive/2/5/           #上聲不分陰陽
+    - derive/3/6/           #去聲不分陰陽
     - abbrev/^([a-z]).+$/$1/
     - derive/ng/j/           # 韻母ng可用鍵盤j
     - abbrev/^([a-z]).+$/$1/           # 簡拼
