@@ -1,0 +1,121 @@
+客語系　粵台片　梅惠小片, 　廣東省　梅州市　梅縣區方案
+爲了簡便,聲母可NG，ng用鍵盤r。韻母可ng用鍵盤j。
+橫向數字鍵輸入聲調，亦可省略聲調。九宮數字鍵選字。
+
+本方案目前只能輸入官方語言常用字和常用詞，方言字詞正在開發中。
+
+使用前先下載中州韻輸入法對應平臺http://rime.im/download/
+將方案（schema）與字典（dict）一同放入用戶資料夾並重新部署，等待約一分鐘即可。
+
+反查：忘記或未知當前方案如何輸入時可按`鍵（位於電腦鍵盤1鍵左方、Q鍵左上方、ESC鍵下方）臨時轉換至其它輸入方案。預設反查爲官方語言拼音方案。（安卓設備同文輸入法可能要另外下載官語方案）
+
+字形轉換：按F4即可轉換字形，預設爲此語言或方言使用當地字形與傳統字形轉換。（安卓設備同文輸入法可直接在鍵盤轉換。部分字形轉換需要另外下載）
+
+想提出意見請到github頁面提出https://github.com/DaengGWokFook/Asian-Languages/issues或者用以下方式聯絡：騰訊QQ：3032830253 QQ羣：207803858 騰訊電子郵箱：daenggwokfook@qq.com Google郵箱：daenggwokfook@gmail.com
+
+
+聲母18個
+國際音標	拼音
+p	B
+pʰ	P
+m	M
+f	F
+t	D
+tʰ	T
+n	N
+l	L
+k	G
+kʰ	K
+h	H
+ts	Z
+tsʰ	C
+s	S
+v	W
+ŋ	NG
+ȵ	ng
+0	E
+
+韻母72個
+國際音標	拼音
+a	a
+ai	ai
+au	au
+am	am
+an	an
+aŋ	ang
+ap	ap
+at	at
+ak	ak
+ɔ	o
+ɔi	oi
+ɔn	on
+ɔŋ	ong
+ɔt	ot
+ɔk	ok
+ɛ	e
+ɛi	ei
+ɛu	eu
+ɛm	em
+ɛn	en
+ɛp	ep
+ɛt	et
+əm	aem
+ən	aen
+əp	aep
+ət	aet
+i	i
+ɿ	ii
+iu	iu
+im	im
+in	in
+ip	ip
+it	it
+ia	ia
+iai	iai
+iau	iau
+iam	iam
+ian	ian
+iaŋ	iang
+iap	iap
+iat	iat
+iak	iak
+iɔ	io
+iɔn	ion
+iɔŋ	iong
+iɔk	iok
+iɛ	ie
+iɛn	ien
+iɛt	iet
+iui	iui
+iun	iun
+iuŋ	iuŋ
+iut	iut
+iuk	iuk
+ŋ	ng
+u	u
+ui	ui
+un	un
+uŋ	uŋ
+ut	ut
+uk	uk
+ua	ua
+uai	uai
+uan	uan
+uaŋ	uaŋ
+uat	uat
+uɔ	uo
+uɔk	uok
+uɔn	uon
+uɔŋ	uong
+uɛn	uen
+uɛt	uet
+
+聲調6個
+國際音標	拼音
+陰平44	1
+陽平11	4
+上聲31	2
+去聲52	3
+陰入1	7
+陽入5	8
+
