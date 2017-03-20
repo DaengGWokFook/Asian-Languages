@@ -9,16 +9,17 @@
 因爲此網站的資料夾只能用羅馬字母與部分符號命名，所以無法用漢字命名，因此給諸位帶來不便，請見諒。
 以下是原本想輸入的漢字與現在顯示於資料夾的羅馬字對照表：
 - 羅馬字 漢字
-- [Ancient 古代音系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Ancient)
-- [Huei  徽語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Huei)
-- [Japanese  日語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Japanese)
-- [Jing  晉語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Jing)
-- [Kak-Hak 客語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Kak-Hak)
-- [Korean  高麗語系（朝鮮和韓國語系）](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Korean)
-- [Min-Ban 閩語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Min-Ban)
-- [Ngo-Wu  吳語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/NGo-Wu)
-- [Siang-Xiang 湘語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Siang-Xiang)
-- [Viet-Yvt  越語系（粵語系）](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Viet-Yvt)
+- [Character-Font	字形字體](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Character-Font)
+- [Ancient	古代音系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Ancient)
+- [Huei	徽語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Huei)
+- [Japanese	日語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Japanese)
+- [Jing	晉語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Jing)
+- [Kak-Hak	客語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Kak-Hak)
+- [Korean	高麗語系（朝鮮和韓國語系）](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Korean)
+- [Min-Ban	閩語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Min-Ban)
+- [Ngo-Wu	吳語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/NGo-Wu)
+- [Siang-Xiang	湘語系](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Siang-Xiang)
+- [Viet-Yvt	越語系（粵語系）](https://github.com/DaengGWokFook/Asian-Languages/tree/master/Viet-Yvt)
 
 ## 聯絡方式：
 - 騰訊QQ羣：207803858
