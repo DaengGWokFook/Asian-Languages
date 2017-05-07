@@ -25,5 +25,5 @@
 - 騰訊QQ羣：207803858
 - QQ帳號：3032830253
 - [本網站 Issues](https://github.com/DaengGWokFook/Asian-Languages/issues)
-- Google郵箱：daenggwokfook@gmail.com
-- QQ郵箱：daenggwokfook@qq.com
+- Google郵箱從右往左： ‮daenggwokfook@gmail.com
+- QQ郵箱從右往左： ‮daenggwokfook@qq.com
